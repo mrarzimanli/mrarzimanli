@@ -1,9 +1,9 @@
-## Hey! 👋 I'm Fada.
-
-I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
+![Fada Arzimanli](mrarzimanli.png)
 
 
-### Languages and Tools:
+I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code life with love! ❤️
+
+### Used Technologies:
 
 <code><img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
@@ -20,6 +20,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-mrarzimanli-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mrarzimanli)](https://www.twitter.com/mrarzimanli)
 [![Linkedin Badge](https://img.shields.io/badge/-mrarzimanli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrarzimanli/)](https://www.linkedin.com/in/mrarzimanli/)
 [![Instagram Badge](https://img.shields.io/badge/-mrarzimanli-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mrarzimanli/)](https://www.instagram.com/mrarzimanli/)
+[![Twitter Badge](https://img.shields.io/badge/-mrarzimanli-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mrarzimanli)](https://www.twitter.com/mrarzimanli)
